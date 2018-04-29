@@ -1,0 +1,10 @@
+1.因为Scala是基于Java虚拟机，也就是JVM的一门编程语言。所有Scala的代码，
+都需要经过编译为字节码，然后交由Java虚拟机来运行。所以Scala和Java是
+可以无缝互操作的。Scala可以任意调用Java的代码。
+
+2.安装scala
+    1.从Scala官方网站下载，http://www.scala-lang.org/download/，windows版本的安装包是scala-2.11.7.msi。
+    2.使用下载下来的安装包安装Scala。
+    3.在PATH环境变量中，配置$SCALA_HOME/bin目录。
+    4.在windows命令行内即可直接键入scala，打开scala命令行，进行scala编程。
+

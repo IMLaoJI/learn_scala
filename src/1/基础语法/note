@@ -1,7 +1,0 @@
-1.因为Scala是基于Java虚拟机，也就是JVM的一门编程语言。所有Scala的代码，
-都需要经过编译为字节码，然后交由Java虚拟机来运行。所以Scala和Java是
-可以无缝互操作的。Scala可以任意调用Java的代码。
-
-2.安装scala
-
-
